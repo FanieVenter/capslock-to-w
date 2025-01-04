@@ -18,5 +18,5 @@ A simple Python script that remaps a double press of the Caps Lock key to type t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/capslock-to-w.git
+   git clone https://github.com/fanieventer/capslock-to-w.git
    cd capslock-to-w
